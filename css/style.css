@@ -365,7 +365,7 @@
   margin-bottom: 0.5rem;
 }
 .content hr {
-  border: 1px dashed #333;
+  border: 1px dashed #ccc /*$color-light*/;
 }
 .content strong {
   font-weight: bold;
@@ -429,6 +429,12 @@
   border-bottom: none;
   padding: 9px 8px 0px 8px;
 }
+.content .post-elemento height:50px {
+  margin-top: 50px;
+}
+. .content:hover {
+  border-left: 4px solid #3cce5b;
+}
 *,
 *:before,
 *:after {
@@ -442,7 +448,7 @@ html {
 }
 body {
   color: #363533;
-  background-color: #e2e0de;
+  background-color: #f3f3f3;
   font-size: 14px;
   font-family: "Menlo", "Meslo LG", monospace;
   font-weight: 400;
@@ -850,7 +856,7 @@ body {
   transition: opacity 0.2s;
   width: 100%;
   z-index: 5000000;
-  background: #cdcac6;
+  background: #dbdbdb;
   border-top: 1px solid #666673;
 }
 #footer-post a {
@@ -1101,11 +1107,9 @@ article .content blockquote footer {
 }
 article .content blockquote footer a {
   color: #666;
-  background-image: linear-gradient(transparent, transparent 5px, #666 5px, #666);
 }
 article .content blockquote footer a:hover {
   color: #999;
-  background-image: linear-gradient(transparent, transparent 4px, #999 4px, #999);
 }
 article .content blockquote footer cite:before {
   content: "—";
@@ -1343,7 +1347,7 @@ pre code {
 }
 .highlight {
   font-family: "Menlo", "Meslo LG", monospace;
-  background: #302d2a;
+  background: #313131;
   -webkit-border-radius: 4px;
   border-radius: 4px;
   padding: 10px 15px;
