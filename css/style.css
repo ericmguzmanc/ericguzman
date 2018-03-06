@@ -429,10 +429,11 @@
   border-bottom: none;
   padding: 9px 8px 0px 8px;
 }
-.content .post-elemento height:50px {
+.content .post-elemento {
+  height:50px ;
   margin-top: 50px;
 }
-. .content:hover {
+.content:hover {
   border-left: 4px solid #3cce5b;
 }
 *,
@@ -448,7 +449,7 @@ html {
 }
 body {
   color: #363533;
-  background-color: #f3f3f3;
+  background-color: #e2e0de;
   font-size: 14px;
   font-family: "Menlo", "Meslo LG", monospace;
   font-weight: 400;
@@ -1358,7 +1359,7 @@ pre code {
   float: right;
 }
 .highlight figcaption:before,
-.highlight figcaption content: "" {
+.highlight figcaption content {
   display: table;
 }
 .highlight figcaption:after {
