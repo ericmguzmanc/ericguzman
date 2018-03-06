@@ -432,9 +432,10 @@
 .content .post-elemento {
   height:50px ;
   margin-top: 25px;
+  border-left: 4px solid #456DBA;
 }
 .content:hover {
-  border-left: 4px solid #456DBA;
+  /* border-left: 4px solid #456DBA; */
 }
 *,
 *:before,
