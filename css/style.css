@@ -322,7 +322,7 @@
   font-size: 1.5em;
   font-style: normal;
   font-weight: 700;
-  color: #385998;
+  color: #008cdd;
   margin-top: 3rem;
   margin-bottom: 1rem;
   display: block;
@@ -487,13 +487,13 @@ body {
   background-image: linear-gradient(transparent, transparent 5px, #363533 5px, #363533);
 }
 .content a:hover {
-  background-image: linear-gradient(transparent, transparent 4px, #385998 4px, #385998);
+  background-image: linear-gradient(transparent, transparent 4px, #008cdd 4px, #008cdd);
 }
 .content a.icon {
   background: none;
 }
 .content a.icon:hover {
-  color: #385998;
+  color: #008cdd;
 }
 .content h1 a,
 .content .h1 a,
@@ -516,7 +516,7 @@ body {
   background-repeat: repeat-x;
   background-position: bottom;
   background-size: 100% 6px;
-  background-image: linear-gradient(transparent, transparent 6px, #385998 6px, #385998);
+  background-image: linear-gradient(transparent, transparent 6px, #008cdd 6px, #008cdd);
 }
 @media (min-width: 540px) {
   .image-wrap {
@@ -588,7 +588,7 @@ body {
   font-size: 0.8rem;
   font-style: normal;
   font-weight: 200;
-  color: #385998;
+  color: #008cdd;
 }
 #header #nav ul {
   list-style-type: none;
@@ -604,13 +604,13 @@ body {
   background-repeat: repeat-x;
   background-position: bottom;
   background-size: 100% 6px;
-  background-image: linear-gradient(transparent, transparent 5px, #385998 5px, #385998);
+  background-image: linear-gradient(transparent, transparent 5px, #008cdd 5px, #008cdd);
 }
 #header #nav ul li {
   display: inline-block;
   vertical-align: middle;
   margin-right: 15px;
-  border-right: 1px dotted #385998;
+  border-right: 1px dotted #008cdd;
 }
 #header #nav ul .icon {
   display: none;
@@ -665,7 +665,7 @@ body {
   background: none;
 }
 #header-post a.icon:hover {
-  color: #385998;
+  color: #008cdd;
 }
 #header-post ol {
   list-style-type: none;
@@ -689,14 +689,14 @@ body {
   margin-left: 15px;
 }
 #header-post #menu-icon:hover {
-  color: #385998;
+  color: #008cdd;
 }
 #header-post #menu-icon-tablet {
   float: right;
   margin-left: 15px;
 }
 #header-post #menu-icon-tablet:hover {
-  color: #385998;
+  color: #008cdd;
 }
 #header-post #top-icon-tablet {
   margin-left: 15px;
@@ -705,10 +705,10 @@ body {
   position: fixed;
 }
 #header-post #top-icon-tablet:hover {
-  color: #385998;
+  color: #008cdd;
 }
 #header-post .active {
-  color: #385998;
+  color: #008cdd;
 }
 #header-post #menu {
   visibility: hidden;
@@ -718,7 +718,7 @@ body {
   font-size: 0.8rem;
   font-style: normal;
   font-weight: 200;
-  color: #385998;
+  color: #008cdd;
 }
 #header-post #nav ul {
   line-height: 15px;
@@ -731,10 +731,10 @@ body {
   background-repeat: repeat-x;
   background-position: bottom;
   background-size: 100% 6px;
-  background-image: linear-gradient(transparent, transparent 5px, #385998 5px, #385998);
+  background-image: linear-gradient(transparent, transparent 5px, #008cdd 5px, #008cdd);
 }
 #header-post #nav ul li {
-  border-right: 1px dotted #385998;
+  border-right: 1px dotted #008cdd;
 }
 #header-post #nav ul li:last-child {
   border-right: 0;
@@ -773,7 +773,7 @@ body {
   float: right;
 }
 #header-post #toc a:hover {
-  color: #385998;
+  color: #008cdd;
 }
 #header-post #toc .toc-level-1 > .toc-link {
   display: none;
@@ -784,7 +784,7 @@ body {
 }
 #header-post #toc .toc-level-2:before {
   content: "#";
-  color: #385998;
+  color: #008cdd;
 }
 #header-post #toc .toc-level-3 {
   font-size: 0.7rem;
@@ -864,7 +864,7 @@ body {
   background: none;
 }
 #footer-post a.icon:hover {
-  color: #385998;
+  color: #008cdd;
 }
 #footer-post #nav-footer {
   margin-left: 1rem;
@@ -872,14 +872,14 @@ body {
   text-align: center;
 }
 #footer-post #nav-footer a {
-  color: #385998;
+  color: #008cdd;
   font-size: 1rem;
 }
 #footer-post #nav-footer a:hover {
   background-repeat: repeat-x;
   background-position: bottom;
   background-size: 100% 6px;
-  background-image: linear-gradient(transparent, transparent 5px, #385998 5px, #385998);
+  background-image: linear-gradient(transparent, transparent 5px, #008cdd 5px, #008cdd);
 }
 #footer-post #nav-footer ul {
   list-style-type: none;
@@ -901,7 +901,7 @@ body {
   width: 100%;
 }
 #footer-post #actions-footer a {
-  color: #385998;
+  color: #008cdd;
 }
 #footer-post #actions-footer ul {
   list-style-type: none;
@@ -945,7 +945,7 @@ body {
   line-height: 30px;
 }
 #footer-post #toc-footer a:hover {
-  color: #385998;
+  color: #008cdd;
 }
 #footer-post #toc-footer .toc-level-1 > .toc-link {
   display: none;
@@ -956,7 +956,7 @@ body {
 }
 #footer-post #toc-footer .toc-level-2:before {
   content: "#";
-  color: #385998;
+  color: #008cdd;
 }
 #footer-post #toc-footer .toc-level-3 {
   font-size: 0.7rem;
@@ -1055,7 +1055,7 @@ article header .postdate {
 }
 article .content h2:before {
   content: "#";
-  color: #385998;
+  color: #008cdd;
   position: absolute;
   left: -1rem;
   top: -4px;
